@@ -1,0 +1,8 @@
+en:
+  ricer4:
+    plugins:
+      irc:
+        
+        autologin:
+          description: 'Offers autologin features via WHOIS and NickServ.'
+          msg_logged_in: 'You just have been logged in by NickServ.'
